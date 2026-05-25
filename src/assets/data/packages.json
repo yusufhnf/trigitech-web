@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Paket 4 IP Camera",
+    "subtitle": "Solusi Terlengkap",
+    "price": 5000000,
+    "badge": "Terlaris",
+    "type": "wired",
+    "brand": "Generic",
+    "cameraCount": 4,
+    "features": [
+      "4 Camera Indoor/Outdoor (Bebas Pilih)",
+      "NVR 4 Channel",
+      "PoE 4 Port",
+      "Hardisk 500 GB",
+      "Kabel LAN Cat6 60m",
+      "1 Set Konektor",
+      "Material Support",
+      "Audio Bersuara",
+      "Jasa Instalasi",
+      "Free Setting Online di HP"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Paket 2 IP Camera",
+    "subtitle": "Pilihan Hemat",
+    "price": 3350000,
+    "badge": null,
+    "type": "wired",
+    "brand": "Generic",
+    "cameraCount": 2,
+    "features": [
+      "2 Camera Indoor/Outdoor (Bebas Pilih)",
+      "NVR 4 Channel",
+      "PoE 4 Port",
+      "Hardisk 500 GB",
+      "Kabel LAN Cat6 60m",
+      "1 Set Konektor",
+      "Material Support",
+      "Audio Bersuara",
+      "Jasa Instalasi",
+      "Free Setting Online di HP"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Paket EZVIZ Indoor",
+    "subtitle": "Wireless Praktis",
+    "price": 950000,
+    "badge": "Termurah",
+    "type": "wireless",
+    "brand": "EZVIZ",
+    "cameraCount": 1,
+    "features": [
+      "1 Camera EZVIZ Indoor",
+      "Micro SD 32 GB",
+      "Kabel 10m",
+      "Material Support (Stop Kontak, Konektor)",
+      "Audio CCTV Bersuara",
+      "Jasa Instalasi",
+      "Free Setting Online di HP"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Paket EZVIZ Outdoor",
+    "subtitle": "Tahan Segala Cuaca",
+    "price": 1250000,
+    "badge": null,
+    "type": "wireless",
+    "brand": "EZVIZ",
+    "cameraCount": 1,
+    "features": [
+      "1 Camera EZVIZ Outdoor",
+      "Micro SD 32 GB",
+      "Kabel 10m",
+      "Material Support (Stop Kontak, Konektor)",
+      "Tahan Air Hujan",
+      "Audio CCTV Bersuara",
+      "Jasa Instalasi",
+      "Free Setting Online di HP"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Paket Dahua Indoor",
+    "subtitle": "Wireless Andalan",
+    "price": 750000,
+    "badge": null,
+    "type": "wireless",
+    "brand": "Dahua",
+    "cameraCount": 1,
+    "features": [
+      "1 Camera Dahua Indoor",
+      "Micro SD 32 GB",
+      "Kabel 10m",
+      "Material Support (Stop Kontak, Konektor)",
+      "Support Audio Bersuara",
+      "Jasa Instalasi",
+      "Free Setting Online di HP"
+    ]
+  }
+]

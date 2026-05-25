@@ -1,0 +1,58 @@
+{
+  "company": {
+    "name": "Trigitech CCTV",
+    "tagline": "Keamanan Rumah & Bisnis Anda",
+    "description": "Kami menyediakan solusi CCTV terbaik dengan pemasangan profesional, harga terjangkau, dan layanan purna jual terpercaya.",
+    "phone": "081336861026",
+    "whatsapp": "6281336861026",
+    "instagram": "Trigitech_id",
+    "facebook": "Trigitech cctv",
+    "instagramUrl": "https://www.instagram.com/Trigitech_id",
+    "facebookUrl": "https://www.facebook.com/Trigitech-cctv"
+  },
+  "hero": {
+    "heading": "Lindungi Rumah & Bisnis Anda",
+    "subheading": "dengan CCTV Berkualitas",
+    "description": "Solusi keamanan CCTV profesional dengan instalasi cepat, harga terjangkau, dan monitoring langsung dari smartphone Anda.",
+    "ctaText": "Lihat Paket",
+    "ctaSecondary": "Hubungi Kami"
+  },
+  "whyUs": [
+    {
+      "icon": "Shield",
+      "title": "Produk Berkualitas",
+      "description": "Menggunakan brand terpercaya seperti EZVIZ dan Dahua dengan garansi resmi."
+    },
+    {
+      "icon": "Wrench",
+      "title": "Instalasi Profesional",
+      "description": "Tim teknisi berpengalaman siap menginstal CCTV di lokasi Anda dengan rapi dan cepat."
+    },
+    {
+      "icon": "Smartphone",
+      "title": "Monitor via HP",
+      "description": "Setting online gratis agar Anda bisa memantau CCTV kapan saja dan di mana saja."
+    },
+    {
+      "icon": "Headphones",
+      "title": "Dukungan 24/7",
+      "description": "Layanan pelanggan siap membantu Anda kapan pun Anda membutuhkan bantuan teknis."
+    },
+    {
+      "icon": "BadgeCheck",
+      "title": "Harga Transparan",
+      "description": "Tidak ada biaya tersembunyi. Semua sudah termasuk dalam paket yang ditawarkan."
+    },
+    {
+      "icon": "Volume2",
+      "title": "Audio Bersuara",
+      "description": "Setiap paket sudah dilengkapi fitur audio sehingga CCTV bisa mendengar dan berbicara."
+    }
+  ],
+  "stats": [
+    { "value": "500+", "label": "Pelanggan Puas" },
+    { "value": "5+", "label": "Tahun Pengalaman" },
+    { "value": "1000+", "label": "Kamera Terpasang" },
+    { "value": "24/7", "label": "Dukungan Teknis" }
+  ]
+}
